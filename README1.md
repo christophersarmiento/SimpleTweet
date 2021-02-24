@@ -29,13 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<<<<<<< HEAD
-<img src='https://imgur.com/a/J48dhKp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![ds](https://imgur.com/a/J48dhKp.gif)
-=======
 [Video Walkthrough](https://imgur.com/a/J48dhKp)
->>>>>>> fcb31228369491477af02f173be4b528eaddc2b9
 
 ## Open-source libraries used
 
